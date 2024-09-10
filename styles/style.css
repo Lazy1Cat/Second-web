@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(158, 192, 95);
+
+}
+
+#title{
+    border: 2px solid red;
+    width: 500px;
+    height: 50vh;
+}
+
+ul li {
+    display: inline;
+}
